@@ -1,1 +1,1 @@
-# Handwriting_Classification_DeepLearning
+# Handwriting_Recognition_DeepLearning
